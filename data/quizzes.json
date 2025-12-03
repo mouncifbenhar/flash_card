@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q1",
+    "collectionId": "html-basics",
+    "title": "Quiz HTML - niveau 1",
+    "questions": [
+      {
+        "id": "q1-1",
+        "type": "text",
+        "question": "Que signifie HTML ?",
+        "acceptedAnswers": ["Hyper Text Markup Language", "Hypertext Markup Language"]
+      },
+      {
+        "id": "q1-2",
+        "type": "true_false",
+        "question": "La balise <div> est sémantique.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q2",
+    "collectionId": "css-basics",
+    "title": "Quiz CSS - niveau 1",
+    "questions": [
+      {
+        "id": "q2-1",
+        "type": "text",
+        "question": "Quelle propriété change la couleur du texte ?",
+        "acceptedAnswers": ["color"]
+      },
+      {
+        "id": "q2-2",
+        "type": "true_false",
+        "question": "padding ajoute de l'espace à l'intérieur d'un élément.",
+        "correct": true
+      }
+    ]
+  }
+]
